@@ -9,8 +9,6 @@ This repository contains a data science project focused on predicting car prices
 - [Modeling and Prediction](#modeling-and-prediction)
 - [Results and Evaluation](#results-and-evaluation)
 - [Setup and Usage](#setup-and-usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
